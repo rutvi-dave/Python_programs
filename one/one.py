@@ -1,2 +1,4 @@
 name = "Rutvi"
-print(name)
+age=23
+
+print(name,age)
